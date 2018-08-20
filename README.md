@@ -1,3 +1,3 @@
 # hello-world
-tutorial repository
+diplom repository
 # try to make a commit
